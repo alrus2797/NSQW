@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805947285549",
+    "firebase_url": "https://coffee-bbbea.firebaseio.com",
+    "project_id": "coffee-bbbea",
+    "storage_bucket": "coffee-bbbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805947285549:android:d0c0423a0ba1b64c",
+        "android_client_info": {
+          "package_name": "com.appjex.nsqn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805947285549-6eln93kg5ho1nbdik2i1qn6pr25e01fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appjex.nsqn",
+            "certificate_hash": "92efe0ab8da873d7487f457b499ddf923fc7c235"
+          }
+        },
+        {
+          "client_id": "805947285549-d68qlano4lqru63a3rpbrkunt3fuo9bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMx0ySbZX9n_CErtIVmuAZHw-Wol16bvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805947285549-d68qlano4lqru63a3rpbrkunt3fuo9bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
