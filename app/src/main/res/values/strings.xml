@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">NSQN</string>
+    <string name="name">Coffee</string>
+    <string name="message_init">Bienvenido a Coffee.</string>
+    <string name="user_name">Usuario/Coffee</string>
+    <string name="number_phone">Número de celular</string>
+    <string name="btn_login">Ingresar</string>
+
+    <string name="title_tab1">Tab 1</string>
+    <string name="title_tab2">Tab 2</string>
+    <string name="search">action_search</string>
+
+    <string name="chat_1">Chat 1</string>
+    <string name="tema_1">Tema 1</string>
+    <string name="lugar_1">Lugar 1</string>
 </resources>
